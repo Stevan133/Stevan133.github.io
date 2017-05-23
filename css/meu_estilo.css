@@ -1,0 +1,50 @@
+/* tintas cariri */
+
+
+.teste1{text-align: center; background: LightSalmon;}
+
+.teste{text-align: center; background: cyan;}
+ 
+.teste2{text-align: center; background: PaleGoldenrod;}
+
+.container{background: Lightcyan;}
+
+/*
+div{border: 1px solid} */
+
+.texto_control{text-align: center; color: #3366FF}
+
+/* A Equipe */
+.img_equipe{background: #1E90FF; text-align: center; color: #000; font-weigth: bold;} 
+
+.img_equipe1{background: Brown; text-align: center; color: #000; font-weigth: bold;}           
+
+.img_equipe2{background: green; text-align: center; color: #000; font-weigth: bold;}   
+
+.img_equipe3{background: yellow; text-align: center; color: #000; font-weigth: bold;}   
+
+/* FORMULÁRIO */
+.center{text-align: center; font-weigth: bold;}
+.img_form{text-align: center;}
+
+/* rodapé */
+.rodape{background: black;}
+.blue{color: Lightcyan;}
+.inicio{background: black;}
+
+.teste01{background: Lightgreen;}      
+
+    /*post*/
+.data{background-color: #4682B4; text-align: center; color: #fff;}
+.dia{font-size: 50px;}
+.titulo{font-size: 50px; font-weight: bold; color: #000000; padding:12px;}
+
+.escrito{font-size: 20px; color: #fff;}
+
+.img{text-align: center; padding: 20px}
+
+.textcont{padding: 10px; font-size: 15px; text-align: justify;}
+
+/* login */
+.borda.iden{border: 8px #555; border-radius: 1px;}
+            
